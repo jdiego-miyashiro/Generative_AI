@@ -1,5 +1,6 @@
 # Kaggle Data
 data_dir/
+sample_images/
 archive
 # Byte-compiled / optimized / DLL files
 __pycache__/
